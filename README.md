@@ -1,5 +1,6 @@
 # massembler
-New language
+                                                                       New language
+
 
 #fonetica   // A library that changes languages with commentary
 
@@ -43,8 +44,7 @@ New language
 
 
 
-
-
+                                                        Who wants and wants to help :). 
 
 
 
