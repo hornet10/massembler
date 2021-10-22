@@ -2,7 +2,7 @@
                                                                        New language
 
 
-#fonetica   // A library that changes languages with commentary
+~fonetica   // A library that changes languages with commentary
 
 
     //c++         /Change c++
@@ -77,3 +77,4 @@
 IBAN:BG12SOM91301058475102
 
 
+email. hornettan90@gmail.com
